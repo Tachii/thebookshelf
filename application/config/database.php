@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql6.000webhost.com',
-	'username' => 'a1713593_tachi',
-	'password' => 'a1713593',
-	'database' => 'a1713593_chat',
+	'hostname' => 'us-cdbr-iron-east-02.cleardb.net',
+	'username' => 'bb8fb388a4385c',
+	'password' => '0e294e09',
+	'database' => 'heroku_d59fe85bcaf90c9',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
